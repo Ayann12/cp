@@ -1,0 +1,27 @@
+.jumbotron {
+    padding: 6rem;
+    background-color: #e2edff;
+}
+
+#portofolio {
+    background-color: #e2edff;
+    padding: 2rem 1rem;
+}
+
+#contact {
+    padding: 2rem 1rem;
+}
+
+footer {
+    padding: 1rem;
+    text-align: center;
+}
+
+footer a {
+    text-decoration: none;
+    color: #000;
+}
+
+footer a:hover {
+    color: red;
+}
