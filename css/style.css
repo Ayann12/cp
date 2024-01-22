@@ -4,11 +4,16 @@
 }
 
 #portofolio {
+    padding: 2rem 1rem;
+}
+
+#services {
     background-color: #e2edff;
     padding: 2rem 1rem;
 }
 
 #contact {
+    background-color: #e2edff;
     padding: 2rem 1rem;
 }
 
